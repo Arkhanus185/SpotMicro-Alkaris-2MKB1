@@ -1,0 +1,10 @@
+Flask==2.0.1
+opencv-python
+opencv-contrib-python
+google-generativeai
+SpeechRecognition
+edge-tts
+numpy
+Pillow
+requests
+smbus

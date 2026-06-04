@@ -1,7 +1,7 @@
 # Alkaris 2MKB1
 
 **Special Thanks / Acknowledgements:**
-A massive thank you to [advancedhobbylab](https://github.com/advancedhobbylab/spotmicro) for providing the foundational inverse kinematics and locomotion framework. Without their excellent open-source contribution, the advanced AI, Smart Hunter tracking, and obstacle avoidance features of Alkaris would not have been possible.
+A massive thank you to [advancedhobbylab](https://github.com/advancedhobbylab/spotmicro) for providing the foundational inverse kinematics and locomotion framework. Without their excellent open-source contribution, the advanced AI, Target tracking, and obstacle avoidance features of Alkaris would not have been possible.
 
 ---
 
@@ -70,6 +70,6 @@ Terminalde sistemin hazir olduguna dair yazilari gordugunuzde, ayni agdaki bilgi
 Karsiniza cikan web arayuzunden:
 - Robotun kamerasindan canli goruntu alabilir,
 - Manuel yuruyus ve egilme komutlari verebilir,
-- Hedef Takip (Smart Hunter) veya Otonom Engelden Kacma modlarini tek tikla aktif edebilirsiniz.
+- Hedef Takip veya Otonom Engelden Kacma modlarini tek tikla aktif edebilirsiniz.
 
 Iyi calismalar dilerim.

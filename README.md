@@ -9,7 +9,7 @@ A massive thank you to [advancedhobbylab](https://github.com/advancedhobbylab/sp
 
 Alkaris, Raspberry Pi 4 uzerinde calisan, yapay zeka destekli otonom bir robot kopek projesidir. Bu proje, sadece bir robotu hareket ettirmeyi degil, ayni zamanda goruntu isleme ve buyuk dil modelleri (Gemini AI) kullanarak robota "gorme, anlama ve takip etme" yetenekleri kazandirmayi amaclar.
 
-Bu rehber, eline ilk defa Raspberry Pi alan bir universite ogrencisi dusunulerek hazirlanmistir. Asagidaki adimlari sirasiyla takip ederek sistemi sorunsuz bir sekilde kurabilirsiniz.
+Bu rehber, eline ilk defa Raspberry Pi alan bir universite ogrencisi dusunulerek hazirlanmistir. Asagidaki adimlari sirasiyla takip ederek sistemi sorunsuz bir sekilde kurabilirsiniz. Neyi neden kullandığımıza dair daha fazla detay isterseniz Alkaris_Makale_Github.pdf dosyasını inceleyebilirsiniz.
 
 ## Kurulum Rehberi
 

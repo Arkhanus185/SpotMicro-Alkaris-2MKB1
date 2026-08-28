@@ -3,10 +3,9 @@
 **Special Thanks / Acknowledgements:**
 A massive thank you to [advancedhobbylab](https://github.com/advancedhobbylab/spotmicro) for providing the foundational inverse kinematics and locomotion framework. Without their excellent open-source contribution, the advanced AI, Target tracking, and obstacle avoidance features of Alkaris would not have been possible.
 
-Oww Yeee
 ---
 
-## Proje Hakkinda
+## Proje Hakkinda.
 
 Alkaris, Raspberry Pi 4 uzerinde calisan, yapay zeka destekli otonom bir robot kopek projesidir. Bu proje, sadece bir robotu hareket ettirmeyi degil, ayni zamanda goruntu isleme ve buyuk dil modelleri (Gemini AI) kullanarak robota "gorme, anlama ve takip etme" yetenekleri kazandirmayi amaclar.
 

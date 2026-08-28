@@ -3,6 +3,7 @@
 **Special Thanks / Acknowledgements:**
 A massive thank you to [advancedhobbylab](https://github.com/advancedhobbylab/spotmicro) for providing the foundational inverse kinematics and locomotion framework. Without their excellent open-source contribution, the advanced AI, Target tracking, and obstacle avoidance features of Alkaris would not have been possible.
 
+Oww Yeee
 ---
 
 ## Proje Hakkinda

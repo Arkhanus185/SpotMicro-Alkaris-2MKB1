@@ -73,6 +73,3 @@ Karsiniza cikan web arayuzunden:
 - Hedef Takip veya Otonom Engelden Kacma modlarini tek tikla aktif edebilirsiniz.
 
 Iyi calismalar dilerim.
-
-Emeği geçenler:
-KeCi7
